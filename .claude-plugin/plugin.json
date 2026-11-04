@@ -1,0 +1,7 @@
+{
+  "name": "user-message-card",
+  "version": "0.1.0",
+  "description": "Renders your own prompts as a blue card with white text, visually distinct from Claude's output",
+  "author": { "name": "jason2000wh", "url": "https://github.com/jason2000wh" },
+  "license": "MIT"
+}

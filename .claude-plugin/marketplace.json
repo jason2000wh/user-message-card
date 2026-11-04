@@ -1,0 +1,11 @@
+{
+  "name": "user-message-card",
+  "description": "Interface mods by jason2000wh — user-message-card renders your own prompts as a blue card",
+  "owner": { "name": "jason2000wh" },
+  "plugins": [
+    {
+      "name": "user-message-card",
+      "source": "./"
+    }
+  ]
+}
